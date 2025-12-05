@@ -1,7 +1,5 @@
 # 🚀 Hello World Angular !
 
-![Angular Banner](https://raw.githubusercontent.com/angular/angular/main/docs/images/logos/angular/angular.png)
-
 ---
 
 Ce projet a été conçu comme une première exploration du framework **Angular**, l’un des outils les plus populaires pour la création d’applications web modernes, dynamiques et performantes.  
