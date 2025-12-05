@@ -8,13 +8,11 @@ import { IpService } from './service/ip';
   styleUrl: './app.css'
 })
 
-// export class App {
-//   protected readonly title = signal('projet1')
-// }
-
 export class App {
 
-  constructor(private ipService:IpService){}
+  constructor(private ipService:IpService){
+    this.getIP()
+  }
 
   // title: string = 'projet titre';
   protected readonly title = signal('projet1')
